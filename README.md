@@ -1,6 +1,6 @@
 # Ratnakumari
 <h1 align="center">Hi 👋, I'm Ratnakumari</h1>
-<div align="center"><img src="https://i0.wp.com/picjumbo.com/wp-content/uploads/pure-nature-landscape-single-tree-in-green-field-free-photo.jpg?w=600&quality=80"></div>
+
 <h3 align="center">Python Developer in Progress | Eager to Solve Real-World Problems</h3>
 
 <p align="left"> <img sr=""https://komarev.com/ghpvc/?username=ratnakumari-sys&label=Profile%20views&color=0e75b6&style=flat"" alt="ratnakumari-sys" /> </p>
